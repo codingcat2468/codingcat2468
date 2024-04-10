@@ -7,6 +7,7 @@ Hi, I’m Codingcat, a young programmer from Germany who likes to code stuff for
 - ⚡ Favorite languages: **Java, C#, JS/TS, C++**
 - 🌱 Currently learning React, GLSL & Unity
 - 🌐 Website / Blog: **https://codingcat2468.github.io**
+- 🔧 Modrinth: **https://modrinth.com/user/codingcat**
 
 
 Oh yeah, and I like cats 😸. And coding ⚡.\
