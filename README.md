@@ -12,3 +12,8 @@ Hi, I’m Codingcat, a young programmer from Germany who likes to code stuff for
 
 Oh yeah, and I like cats 😸. And coding ⚡.\
 Truly suprising, huh?
+
+
+My *(totally great)* GitHub stats:
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codingcat2468&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
