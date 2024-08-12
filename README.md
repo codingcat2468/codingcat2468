@@ -13,6 +13,6 @@ Hi, I’m **codingcat**, a fairly young but quite experienced dev from germany.
 Oh yeah, and I like cats. And coding.\
 *Who would have thought.*
 
-Take a loot at those *really active and totally great* GitHub stats:
+Take a look at those *really active and totally great* GitHub stats:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codingcat2468&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
