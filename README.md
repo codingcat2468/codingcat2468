@@ -6,7 +6,7 @@ Hi, I’m **codingcat**, a fairly young but quite experienced dev from germany.
 - ✔️ I make Minecraft plugins, mods, datapacks and maps (the technical part, I totally suck at building) and some games and apps for other platforms
 - ⚡ Favorite languages: **Java, C#, JS/TS, C++**
 - 🌱 Currently learning React/Next.js, GLSL & Unity
-- 🌐 Website / Blog: **https://codingcat2468.github.io**
+- 🌐 Website / Blog: **https://codingcat24.dev**
 - 🔧 Modrinth: **https://modrinth.com/user/codingcat**
 
 
