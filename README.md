@@ -7,6 +7,7 @@ Hi, I’m **codingcat**, a fairly young but quite experienced dev from germany.
 - ⚡ Favorite languages: **Java, C#, JS/TS, C++**
 - 🌱 Currently learning React/Next.js, GLSL & Unity
 - 🌐 Website / Blog: **https://codingcat24.dev**
+- 💬 Discord: **codingcat24**
 - 🔧 Modrinth: **https://modrinth.com/user/codingcat**
 
 
