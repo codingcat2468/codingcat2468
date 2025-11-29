@@ -46,3 +46,4 @@ I have been coding since about 4-5 years, and my favorite language is probably e
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+*(This appears to be very inaccurate sometimes, it should be around 60-80% Java)*
