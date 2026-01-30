@@ -45,4 +45,4 @@ I have been coding since about 4-5 years, and my favorite language is probably e
 
 [![My GitHub stats](https://stats.codingcat24.dev/api?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My most used languages](https://stats.codingcat24.dev/api/top-langs?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages](https://stats.codingcat24.dev/api/top-langs?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0&layout=donut&exclude_repo=codingcat2468.github.io)](https://github.com/anuraghazra/github-readme-stats)
