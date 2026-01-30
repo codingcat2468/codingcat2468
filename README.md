@@ -43,6 +43,6 @@ I have been coding since about 4-5 years, and my favorite language is probably e
 ## Statistics
 *Totally great and always active* stats for my github profile can be found below. Note that a lot of my projects in other languages are on organizations such as [Membercat Studios](https://github.com/Membercat-Studios).
 
-[![My GitHub stats](https://stats.codingcat24.dev/?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://stats.codingcat24.dev/api?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My most used languages](https://stats.codingcat24.dev/top-langs/?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages](https://stats.codingcat24.dev/api/top-langs?username=codingcat2468&show_icons=true&theme=ambient_gradient&hide_border=true&border_radius=0&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
